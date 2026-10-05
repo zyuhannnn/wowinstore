@@ -1,0 +1,11 @@
+.env
+.env.*
+.secrets/
+*.pem
+*.key
+*.dpapi
+*.sqlite*
+*.db
+*.log
+node_modules/
+.DS_Store
